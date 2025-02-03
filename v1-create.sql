@@ -1,6 +1,7 @@
 /**
  @author
 */
+--Сушков Павел
 DROP TABLE IF EXISTS Borrowing;
 DROP TABLE IF EXISTS Book;
 DROP TABLE IF EXISTS Reader;
